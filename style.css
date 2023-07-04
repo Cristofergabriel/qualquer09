@@ -1,9 +1,10 @@
+@import url("styles/header.css");
+@import url("styles/banner.css");
 :root{
-    --cor-de-fundo:#8c00ff;
+    --cor-de-fundo:var(--cor-de-fundo);
 }
 body{
     background-color: var(--cor-de-fundo);
 }
-{
-    background-color: red;
-}
+
+    background-color; red
